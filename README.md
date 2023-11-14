@@ -1,6 +1,6 @@
 ![khuz's GitHub Banner](./git%20hub%20banner/)
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=8000&color=678C78&vCenter=true&center=true&width=560&lines=...+Hi+there+👋,+I'm+Dev+Khuz+(Franklin);...+Khay+is+a+Software+Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=8000&color=678C78&vCenter=true&center=true&width=560&lines=...+Hi+there+👋,+I'm+Dev+Khuz+(Franklin);...+Khuz+is+a+Software+Engineer">
 <br>
 Software engineer with expertise in front-end and back-end development as well as mobile applications. Proficient in  JavaScript, as well as it's libaries like ReactJS, AngularJS, and Node.js. Experience working in Agile contexts and using software design patterns. Dedicated to remaining current with industry trends and innovations. Passionate about collaborating on projects and contributing to open source.
 
